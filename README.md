@@ -20,4 +20,5 @@ onde:
     * `OM` é o nome da pagina/ficheiro que contem o CSV da OM
 6. gravar como CSV o ficheiro do fornecedor.
 7. na aplicação *Shopify*, importar o ficheiro, selecionando a caixa de seleção "handle", para que ele reconheça que se pretende atualizar os produtos
+<img width="451" alt="image" src="https://github.com/luciostuder/importador-base-dados/assets/42048382/3c3a41c0-1b55-484d-a8c9-25e8f5ca8c0b">
 8. das colunas do ficheiro, selecionar apenas o handle e o preço
